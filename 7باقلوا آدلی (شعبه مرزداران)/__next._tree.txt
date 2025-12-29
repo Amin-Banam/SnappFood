@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/fed92b05a30b1ac3.css","style"]
+:HC["/",""]
+:HL["https://cdn.snappfood.ir/300x200/uploads/images/vendors/covers/67110770c661d.jpg","image"]
+:HL["https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/672902c155fd3.jpg","image"]
+0:{"buildId":"FZnCNGUWSLblezACqbc5_","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"7%D8%A8%D8%A7%D9%82%D9%84%D9%88%D8%A7%20%D8%A2%D8%AF%D9%84%DB%8C%20(%D8%B4%D8%B9%D8%A8%D9%87%20%D9%85%D8%B1%D8%B2%D8%AF%D8%A7%D8%B1%D8%A7%D9%86)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
